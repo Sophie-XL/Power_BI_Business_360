@@ -1,4 +1,4 @@
-# Power BI Business_360
+# Power BI Business 360
 Power BI Project for Business Analysis
 
 [Link to the **Business 360 Dashboard**:](https://app.powerbi.com/view?r=eyJrIjoiNjdmNTdjMDEtMTFhMy00ZjllLWIzMzYtZTliOTQxOWE5MDJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
