@@ -1,5 +1,5 @@
 # Power BI Business 360
-[Power BI Project for Business Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjdmNTdjMDEtMTFhMy00ZjllLWIzMzYtZTliOTQxOWE5MDJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=ReportSection560216b0b5b96b449373)
+[Power BI Project for Business Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjdmNTdjMDEtMTFhMy00ZjllLWIzMzYtZTliOTQxOWE5MDJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection560216b0b5b96b449373)
 
 ![Finance view](https://github.com/Sophie-XL/Power_BI_Business_360/assets/146779290/3f776fef-2a2e-41d0-8e95-faa69089763e)
 
